@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in DashboardVCViewModel.bannerDetailsAPICall(vc:_:):DashboardVCViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseHandler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LeadGenerationVCViewModel.leadWalkingCustomerRequestDetailsList():LeadGenerationViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.controller.list">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LeadManagementViewModel.leadManagementGetAllEmployeeList():LeadManageMentViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

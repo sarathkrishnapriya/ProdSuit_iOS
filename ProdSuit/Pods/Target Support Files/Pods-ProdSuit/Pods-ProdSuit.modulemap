@@ -1,0 +1,6 @@
+framework module Pods_ProdSuit {
+  umbrella header "Pods-ProdSuit-umbrella.h"
+
+  export *
+  module * { export * }
+}
